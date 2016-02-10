@@ -1,0 +1,83 @@
+*{
+	margin:0px;
+	padding:0px;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:14px;
+	color:#000;
+}
+h1{
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:14px;
+	color:#FFF;
+}
+.clear{
+	clear:both;
+}
+a{
+	text-decoration:none;
+	color:inherit;
+}
+a:hover{
+	text-decoration:underline;
+	color:#999;
+}
+#wrap{
+	background-image:url(../images/bg.jpg);
+	background-position:left top;
+	background-repeat:repeat-x;
+	height:600px;
+}
+#top{
+	height:110px;
+	background-color:#7b1918;
+	padding:10px;
+	
+
+}
+#cnt{
+	margin:0px auto;
+	width:1100px;
+}
+#st{
+	margin:-15px;;
+	color:#fff;
+	float:right;
+	text-align:right;
+	width:480px;
+	
+}
+
+#top_menu{
+	line-height:50px;
+	height:50px;
+	background-color:#585858;
+	margin-top:53px;
+	border-radius:10px 10px 0 0;
+	color:#FFF;
+
+}
+#top_menu a{
+	color:#fff;
+	font-size:12px;
+	padding-left:10px;
+	padding-right:10px;
+}
+#top_menu a:hover{
+	color:#000;
+}
+#top_menu span{
+	background-color:#ab0e0c;
+	border-radius:10px;
+	text-align:center;
+	height:auto;
+	padding:5px;
+}
+#div_body{
+	padding-top:10px;
+	
+}
+#div_body table tr td{
+	padding:5px;
+}
+/* CSS Document */
+

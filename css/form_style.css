@@ -1,0 +1,54 @@
+/* CSS Document */
+.cover{
+	background-color:#FFF; 
+	width:1100px;
+	padding:10px;
+}
+.cover h1{
+	font-variant:small-caps;
+}
+.cover label{
+	font-size:14px;
+	display:block;
+	margin:5px 0px;;
+}
+.cover input{
+	background-color:#F6F6F6;
+	border:1px solid #999;
+	border-radius:3px;
+	-moz-border-radius:3px;
+	-webkit-border-radius::3px;
+	height:30px;
+	margin:5px 0px;
+	width:400px;
+	padding-left:5px;
+}
+.cover select{
+	display:inline-block;
+	background-color:#F6F6F6;
+	border:none;
+	border-radius:3px;
+	-moz-border-radius:3px;
+	-webkit-border-radius::3px;
+	height:40px;
+	margin:5px 0px;
+	width:150px;
+}
+.cover input[type="submit"]
+{
+	width:75px;
+	font-size:14px;
+	text-align:center;
+	background-color:#652d86;
+	color:#FFF;
+	height:30px;
+}
+/*.cover input [type="file"]
+{
+	
+}
+*/
+.cover input[type="submit"]::before
+{
+	display:block;
+}

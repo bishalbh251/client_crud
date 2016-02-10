@@ -1,0 +1,21 @@
+/* CSS Document */
+body{background-color:#f6f6f6; margin:0px; padding:0px; font-family:Verdana, Geneva, sans-serif}
+ul li{list-style:none; color:#fff}
+a{text-decoration:none; color:inherit;}
+h1{color:#000; font-size:18px;}
+.clear{clear:both}
+.wrap{width:1100px;; margin:0px auto;}
+.header{ background-color:#652d86; overflow:hidden}
+.up_menu ul li{float:right; margin-top:10px; margin-right:20px; font-size:16px}
+.logo img{padding-left:30px; padding-top:20px; padding-bottom:10px; float:left}
+.up_menu img{margin-right:8px;}
+.low_menu{background-color:#90C;  color:#FFF; margin:0 auto; padding-top:15px; padding-bottom:20px; border-radius: 0 0 5px 5px;}
+.low_menu a{margin-left:20px; padding:20px 5px;}
+.low_menu a:hover{background-color:#652d86;  background-size:cover; color:#FFF; padding-bottom:15px; border-radius: 0 0 7px 7px;}
+#body{margin-top:50px; float:left;}
+.welcome{float:left; margin-left:400px; color:#FFF; font-size:24px; margin-top:25px;}
+.container{
+	background-color:#FFF; 
+	width:1100px;
+	padding:10px 20px;
+}
